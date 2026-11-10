@@ -1,0 +1,5 @@
+Variable,Threshold,Unit,Calibration_Scale,Physical_Meaning
+Rx1day,41.12,mm,Annual,Daily extreme rainfall trigger
+Rx5day,124.18,mm,Annual,Multi-day accumulation trigger
+SM,0.323,m³/m³,Daily,Catchment saturation trigger
+SWRI,3.102,Index,Daily,Combined rainfall-saturation trigger

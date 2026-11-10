@@ -1,0 +1,11 @@
+Site_ID,Site_Name,Country,Role,Lat,Lon,Reason
+C2,Ruili,China,Primary,24.0,97.85,Upstream capture of high-risk corridor
+M1,Nam Kham,Myanmar,Primary,23.9,97.75,Downstream propagation monitoring
+C3,Mangshi,China,Secondary,24.43,98.57,Auxiliary eastern tributary coverage
+M6,Momeik,Myanmar,Secondary,23.11,96.68,Auxiliary southern lowland coverage
+C1,Longchuan,China,Optional,24.3,97.79,Gap filling
+C4,Lianghe,China,Optional,24.8,98.3,Gap filling
+M2,Namtu,Myanmar,Optional,23.1,97.4,Closest to peak risk cell (49km)
+M3,Kyaukme,Myanmar,Optional,22.54,97.03,Gap filling
+M4,Hsipaw,Myanmar,Optional,22.62,97.3,Gap filling
+M5,Mongyai,Myanmar,Optional,22.35,98.03,Gap filling

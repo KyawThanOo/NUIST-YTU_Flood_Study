@@ -1,0 +1,9 @@
+Metric,Value,Notes
+AUC,0.823,High discriminative skill
+POD,0.0,Failed to detect positive cases
+FAR,0.0,No false alarms (all predicted no-flood)
+Brier_Score,0.0057,Deceptively low due to majority class
+True_Positives,0.0,-
+False_Negatives,29.0,All flood days missed
+True_Negatives,4898.0,-
+False_Positives,0.0,-
